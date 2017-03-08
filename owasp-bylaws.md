@@ -62,7 +62,7 @@ Treasurer, or Board Member at large. These roles will carry the following respon
 **SECTION 2.02 Election and Term of Office.**
 
 Each Board member will serve for a term of 2 years. The term will begin effective January 1 following
-the election period.[1] An individual is limited to 4 consecutive 2 year terms effective January 1, 2014. The
+the election period. An individual is limited to 4 consecutive 2 year terms effective January 1, 2014. The
 role of the Board Members shall be elected by the Board of Directors at the first meeting following the
 election of the Board of Directors. If the election of officers shall not be held at such meeting, such
 election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the
@@ -378,11 +378,7 @@ These Bylaws may be amended by a majority vote of the Board of Directors, provid
 given of the proposed amendment in the notice of the meeting at which such action is taken, or provided
 all members of the Board waive such notice, or by unanimous consent in writing without a meeting. 
 
-###Footnotes:
-
-[1] Amendment to bylaws passed August 23, 2011
-
-## Appendix
+## APPENDIX
 
 **DOCUMENT HISTORY**
 
@@ -398,6 +394,9 @@ Converted to Markdown: March 7, 2017
 ```
 
 **AMENDMENT TRACKING**
+
+_2011-08-23_
+Section 2.02 containted the following as a footnote after the first sentence of that sentence "Amendment to bylaws passed August 23, 2011"
 
 _2013-­03-­14_  
 Removed references to 5.5.03 and 5.04 from 3.02; consolidated sections 2.06 and 2.01a
