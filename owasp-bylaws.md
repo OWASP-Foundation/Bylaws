@@ -1,15 +1,5 @@
 # OWASP FOUNDATION Bylaws
 
-```
-Approved: 23 June 2012
-Revised: 4 March 2013
-Revised: 10 June 2013
-Revised: 19 August 2013
-Revised: 24 February 2014
-Revised: 4 April 2014
-Revised: May 2015 & September 2015
-```
-
 ARTICLE I OFFICES
 
 ARTICLE II AUTHORITY AND DUTIES OF OFFICERS
@@ -453,15 +443,30 @@ all members of the Board waive such notice, or by unanimous consent in writing w
 
 [1] Amendment to bylaws passed August 23, 2011
 
+## Appendix
+
+**DOCUMENT HISTORY**
+
+```
+Approved: June 23, 2012
+Revised: March 4, 2013
+Revised: June 10, 2013
+Revised: August 19, 2013
+Revised: February 24, 2014
+Revised: April 4, 2014
+Revised: May 2015 & September 2015
+Converted to Markdown: March 7, 2017
+```
+
 **AMENDMENT TRACKING**
 
-_2013-­3-­14_  
+_2013-­03-­14_  
 Removed references to 5.5.03 and 5.04 from 3.02; consolidated sections 2.06 and 2.01a
 and sections 2.01c and 2.07; subsequently deleted sections 2.06 and 2.07; Added link to
 board meeting agenda page in section 3.03; added link to election timeline to section
 3.02; added the following sentence to sections 2.02 and 3.02 KH
 
-_2013-­6-­10_  
+_2013-­06-­10_  
 Removed reference to chapter committee in 5.02, modified section 3.03 to drop in person
 meeting requirement. SB
 
@@ -469,7 +474,7 @@ _2013­-08-­13_
 Modified section 3.03 to quarterly board meetings, and attendance requirement to 3 of 4
 meetings. SB
 
-_2014­-2-­24_  
+_2014­-02-­24_  
 Modified section 4.02 to include “is in good standing subject to our code of ethics”. SB
 
 _2014­-04-­07_  
