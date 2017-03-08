@@ -56,7 +56,7 @@ Each Board Member will be assigned one of the following roles: Board Chair, Vice
 
 **SECTION 2.02 Election and Term of Office.**
 
-Each Board member will serve for a term of 2 years. The term will begin effective January 1 following the election period. An individual is limited to 4 consecutive 2 year terms effective January 1, 2014. The role of the Board Members shall be elected by the Board of Directors at the first meeting following the election of the Board of Directors. If the election of officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the next election has been completed. 
+Each Board member will serve for a term of 2 years. The term will begin effective January 1 following the election period. A Board member may run again for re-election at any point in the future, but may serve no more than two two-year terms in any ten year period. The role of the Board Members shall be elected by the Board of Directors at the first meeting following the election of the Board of Directors. If the election of officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the next election has been completed.
 
 ***SECTION 2.03 Resignation.***
 
