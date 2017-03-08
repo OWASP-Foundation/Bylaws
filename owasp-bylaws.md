@@ -50,50 +50,14 @@ security challenges.
 Each Board Member will be assigned one of the following roles: Board Chair, Vice Chair, Secretary,
 Treasurer, or Board Member at large. These roles will carry the following responsibilities:  
 
-a) **Board Chair** ­ The Chairman of the Board shall serve as the principal executive officer of the
-Foundation.
-
-* Fiduciary responsibilities: He/She shall, in general, supervise and control all of the business
-and affairs of the Foundation. He/She will monitor financial planning and financial reports
-He/She or he may sign, with the Secretary or any other proper officer of the Foundation
-thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or
-other instruments which the Board of Directors has authorized to be executed, except in cases
-where the signing and execution thereof shall be expressly delegated by the Board of
-Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be
-required by law to be otherwise signed or executed;
-* Leadership and Direction: provides leadership to the Board of Directors with regards to
-policy setting and strategic planning. He/She helps guide and mediate board actions with
-respect to organizational priorities and governance concerns, and in general shall perform all
-duties incident to the office of Chairman of the Board subject to the control of the Board of
-Directors.
-* Organizational Responsibilities: He/She plays a leading role in fundraising activities,
-formally evaluate the performance of the Foundation Director and informally evaluate the
-effectiveness of the board members. An annual, overall evaluation of the performance of the
-organization in achieving its mission will be accomplished. He or she shall, when present,
-preside at all meetings of the Board of Directors, unless otherwise delegated, and such other
-duties as may be prescribed by the Board of Directors from time to time.
-
-b) **Vice Chair** ­performs Chair responsibilities when the Chair cannot be available, works closely with
-Chair and other Board Members, participates closely with Chair to develop and implement officer
-transition plans, performs other responsibilities as assigned by the Board.  
-c) **Secretary** ­maintains records of the board and ensures effective management of organization’s
-records, manages minutes of board meetings, ensures minutes are distributed shortly after each
-meeting, is sufficiently familiar with legal documents (articles, by­laws, IRS letters, etc.) to note
-applicability during meetings; is the custodian of the corporate records and of the seal of the
-Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which
-on behalf of the Foundation under its seal is duly authorized; keeps a register of the post office
-address of each Director which shall be furnished to the Secretary by such Director; and, in general
-perform all duties incident to the office of the Secretary and such other duties as from time to time
-may be assigned to him by the Chairman of the Board or by the Board.  
-d) **Treasurer** ­manages finances of the organization, administers fiscal matters of the organization,
-provides annual budget to the board for member’s approval, ensures development and board review
-of financial policies and procedures.  
-e) **Board Member at large** regularly attends board meetings and important related meetings, volunteers
-for and willingly accepts assignments and completes them thoroughly and on time, stays informed
-about committee matters, prepares themselves well for meetings, and reviews and comments on
-minutes and reports, gets to know other committee members and builds a collegial working
-relationship that contributes to consensus, is an active participant in the committee’s annual
-evaluating and planning efforts, participates in fundraising for the organization.
+1. **Board Chair** ­ The Chairman of the Board shall serve as the principal executive officer of the Foundation.
+  * Fiduciary responsibilities: He/She shall, in general, supervise and control all of the business and affairs of the Foundation. He/She will monitor financial planning and financial reports He/She or he may sign, with the Secretary or any other proper officer of the Foundation thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be required by law to be otherwise signed or executed;
+  * Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. He/She helps guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chairman of the Board subject to the control of the Board of Directors.
+  * Organizational Responsibilities: He/She plays a leading role in fundraising activities, formally evaluate the performance of the Foundation Director and informally evaluate the effectiveness of the board members. An annual, overall evaluation of the performance of the organization in achieving its mission will be accomplished. He or she shall, when present, preside at all meetings of the Board of Directors, unless otherwise delegated, and such other duties as may be prescribed by the Board of Directors from time to time.
+2. **Vice Chair** ­performs Chair responsibilities when the Chair cannot be available, works closely with Chair and other Board Members, participates closely with Chair to develop and implement officer transition plans, performs other responsibilities as assigned by the Board.  
+3. **Secretary** ­maintains records of the board and ensures effective management of organization’s records, manages minutes of board meetings, ensures minutes are distributed shortly after each meeting, is sufficiently familiar with legal documents (articles, by­laws, IRS letters, etc.) to note applicability during meetings; is the custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized; keeps a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and, in general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to him by the Chairman of the Board or by the Board.  
+4. **Treasurer** ­manages finances of the organization, administers fiscal matters of the organization, provides annual budget to the board for member’s approval, ensures development and board review of financial policies and procedures.  
+5. **Board Member at large** regularly attends board meetings and important related meetings, volunteers for and willingly accepts assignments and completes them thoroughly and on time, stays informed about committee matters, prepares themselves well for meetings, and reviews and comments on minutes and reports, gets to know other committee members and builds a collegial working relationship that contributes to consensus, is an active participant in the committee’s annual evaluating and planning efforts, participates in fundraising for the organization.
 
 **SECTION 2.02 Election and Term of Office.**
 
@@ -128,17 +92,11 @@ filled by the Board of Directors for the unexpired portion of the term.
 
 The Secretary shall:  
 
-a) Keep the minutes of the proceedings of the Board of Directors in one or more minute books
-provided for that purpose;  
-b) See that all notices are duly given in accordance with the provisions of these Bylaws or as
-required by law;  
-c) Be custodian of the corporate records and of the seal of the Foundation and see that the seal of the
-Foundation is affixed to all documents, the execution of which on behalf of the Foundation under
-its seal is duly authorized;  
-d) Keep a register of the post office address of each Director which shall be furnished to the
-Secretary by such Director; and  
-e) In general perform all duties incident to the office of the Secretary and such other duties as from
-time to time may be assigned to him by the Chairman of the Board or by the Board. 
+1. Keep the minutes of the proceedings of the Board of Directors in one or more minute books provided for that purpose;  
+2. See that all notices are duly given in accordance with the provisions of these Bylaws or as required by law;  
+3. Be custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized;  
+4. Keep a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and  
+5. In general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to him by the Chairman of the Board or by the Board. 
 
 ## ARTICLE III ­ BOARD OF DIRECTORS
 
@@ -326,28 +284,9 @@ Directors, such action is in the best interests of the OWASP Foundation.
 The Foundation shall indemnify the Officers of the Foundation including International Board Members
 and Employees, or agents as follows: 
 
-a) Every Officer, Board Member, and employee of the Foundation shall be indemnified by the
-Foundation against all expenses and liabilities, including counsel fees, reasonably incurred by or
-imposed upon him or her in connection with any proceeding to which he or she may be made a
-party, or in which he or she may become involved, by reason of being or having been a director,
-officer, employee or agent of the Foundation or is or was serving at the request of the Foundation
-as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or
-enterprise, or any settlement thereof, whether or not he is a director, officer, employee or agent at
-the time such expenses are incurred, except in such cases wherein the director, officer, employee
-or agent is adjudged guilty of willful misfeasance or malfeasance in the performance of his or her
-duties; provided that in the event of a settlement the indemnification herein shall apply only when
-the Board of Directors approves such settlement and reimbursement as being in the best interests
-of the Foundation. 
-
-
-b) The Foundation shall provide to any person who is or was an officer, board member, or
-employee, or agent of the Foundation or is or was serving at the request of the Foundation as a
-director, officer, employee or agent of the Foundation, partnership, joint venture, trust or
-enterprise, the indemnity against expenses of suit, litigation or other proceedings which is
-specifically permissible under applicable law. 
-
-c) The Board of Directors may, in its discretion, direct the purchase of liability insurance by way of
-implementing the provisions of this Article VI. 
+1. Every Officer, Board Member, and employee of the Foundation shall be indemnified by the Foundation against all expenses and liabilities, including counsel fees, reasonably incurred by or imposed upon him or her in connection with any proceeding to which he or she may be made a party, or in which he or she may become involved, by reason of being or having been a director, officer, employee or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, or any settlement thereof, whether or not he is a director, officer, employee or agent at the time such expenses are incurred, except in such cases wherein the director, officer, employee or agent is adjudged guilty of willful misfeasance or malfeasance in the performance of his or her duties; provided that in the event of a settlement the indemnification herein shall apply only when the Board of Directors approves such settlement and reimbursement as being in the best interests of the Foundation. 
+2. The Foundation shall provide to any person who is or was an officer, board member, or employee, or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, the indemnity against expenses of suit, litigation or other proceedings which is specifically permissible under applicable law. 
+3. The Board of Directors may, in its discretion, direct the purchase of liability insurance by way of implementing the provisions of this Article VI. 
 
 ## ARTICLE VII ­ CONFLICTS OF INTEREST
 
